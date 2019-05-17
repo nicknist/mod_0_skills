@@ -1,0 +1,16 @@
+Object: Arizona State University
+
+Attritbutes:
+Majors: ["Supply Chain Management", "Architecture", "Statistics", "Computer Science"]
+Professors: ["Oke", "Brooks", "Davila", "Forss", "Schick"}]
+NonProfit: True
+Credits_To_Graduate: 120
+Name: Arizona State University
+Student_Population: 80000
+Number_Of_Professors: 1000
+
+Methods:
+Add_Professor: Append "Eaton" to Professors Array
+Subtract_Major: Remove "Statistics" from Majors Array
+Change_Credit_Requirements: 120 + 3 = 123
+Calculate_Student_To_Professor_Ratio 80000/1000 = 80

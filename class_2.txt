@@ -1,0 +1,15 @@
+Class: Middle School
+
+Attributes:
+Elective_Classes (Array)
+Public_School (Boolean)
+Number_Of_Rooms (Integer)
+Number_Of_Staff (Integer)
+Student_Capacity (Integer)
+Name_Of_Principal (String)
+
+Methods:
+Calculate_Rooms_Per_Staff (Divide Number_of_Rooms by Number_Of_Staff)
+Calculate_Max_Students_Per_Room (Divide Student_Capacity by Number_Of_Rooms)
+Add_Elective (Append to Elective_Classes Array)
+Change_Principal (Update String Name_Of_Principal)

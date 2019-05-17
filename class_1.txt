@@ -1,0 +1,16 @@
+Class: University
+
+Attritbutes:
+Majors (Array)
+Professors (Array)
+NonProfit (Boolean)
+Credits_To_Graduate (Integer)
+Name (String)
+Student_Population (Integer)
+Number_Of_Professors (Integer)
+
+Methods:
+Add_Professor (Append to Professors Array)
+Subtract_Major (Remove 'Major' from Majors Array)
+Change_Credit_Requirements (Add 3 to Credits_To_Graduate)
+Calculate_Student_To_Professor_Ratio (Divide Student_Population by Number_Of_Professors)

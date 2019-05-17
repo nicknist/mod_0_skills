@@ -1,0 +1,15 @@
+Object: DSST: Green Valley Ranch Middle School
+
+Attributes:
+Elective_Classes: ["Music", "Art", "Entreprenuership"]
+Public_School: True
+Number_Of_Rooms: 30
+Number_Of_Staff: 30
+Student_Capacity: 600
+Name_Of_Principal: Mrs. G
+
+Methods:
+Calculate_Rooms_Per_Staff: 30/30 = 1
+Calculate_Max_Students_Per_Room: 600/30 = 20
+Add_Elective: Append "Computer Science" to Elective_Classes Array
+Change_Principal: Update Name_Of_Principal to "Mr. Nist"
